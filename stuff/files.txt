@@ -1,0 +1,2 @@
+zx.asm - стандартные определния и макросы для spectrum 128 (pentagon)
+notepad++_z80_highlight - подсветка для notepad++
