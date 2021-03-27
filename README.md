@@ -1,5 +1,5 @@
 # zx-spectrum-from-scratch
-zx-spectrum-from-scratch
+**zx-spectrum-from-scratch**
 
 Разработка под ZX Spectrum с нуля.
 
